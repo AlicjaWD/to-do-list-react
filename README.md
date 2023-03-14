@@ -1,10 +1,10 @@
 # To do list
 
-Description
+##Description
 
 In this application you can create, edit or remove elements from the list.
 
-What technology was used
+##What technology was used
 
 CSS-Grid, CSS- media queries, JS functions
 
