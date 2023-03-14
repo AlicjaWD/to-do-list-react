@@ -4,6 +4,9 @@
 
 In this application you can create, edit or remove elements from the list.
 
+## How it works
+https://alicjawd.github.io/to-do-list-react/
+![animation](gif/to_do_list_react.gif)
 ## What technology was used
 
 CSS-Grid, CSS- media queries, JS functions
